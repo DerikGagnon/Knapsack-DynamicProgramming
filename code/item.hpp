@@ -1,5 +1,4 @@
-#ifndef ITEM.HPP
-#define ITEM.HPP
+#pragma once
 
 #include <iostream>
 #include <iomanip>
@@ -30,4 +29,5 @@ class Item {
 
 };
 
-#endif
+int dynamicProgram(int numItems, int weightLimit, Item * items);
+int maxValue(int num1, int num2);
