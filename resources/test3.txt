@@ -1,0 +1,11 @@
+165
+9
+Sock 3 200
+TV 59 900
+Food 1 10
+Cheese 64 1000
+Urn 17 500
+Laptop 12 200
+Shirt 17 300
+Shoe 5 300
+BarBell 70 1400
