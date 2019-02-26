@@ -1,0 +1,14 @@
+165
+9
+Sock 23 92
+TV 31 47
+Food 29 49
+Cheese 44 68
+Urn 53 60
+Laptop 38 43
+Shirt 63 67
+Shoe 85 84
+BarBell 89 87
+BigThing 82 72
+
+This answer is 299 based of the first test set on https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
