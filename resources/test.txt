@@ -7,3 +7,5 @@ Food 5 10
 Cheese 50 1000
 Urn 21 500
 Laptop 13 200
+
+From the assignment page

@@ -1,11 +1,7 @@
-165
-9
-Sock 3 200
-TV 59 900
-Food 1 10
-Cheese 64 1000
-Urn 17 500
-Laptop 12 200
-Shirt 17 300
-Shoe 5 300
-BarBell 70 1400
+4
+3
+Stereo 4 3000
+Laptop 3 2000
+Guitar 1 1500
+
+Based on the Grokking Algorithms example
