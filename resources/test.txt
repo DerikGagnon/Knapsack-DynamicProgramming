@@ -1,11 +1,9 @@
-70
+11
 7
-Sock 3 200
-TV 40 600
-Necklace 1 80
-Food 5 10
-Cheese 50 1000
-Urn 21 500
-Laptop 13 200
-
-From the assignment page
+Sock  3 300
+Shoe 7 600
+Necklace 1 1900
+Book 5 400
+Laptop 10 3750
+Wallet 3 1400
+Bracelet 1 2000
