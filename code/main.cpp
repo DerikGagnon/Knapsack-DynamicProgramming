@@ -1,7 +1,7 @@
 #include "item.hpp"
 
 int main() {
-    std::string filename = "../resources/test.txt";
+    std::string filename = "../resources/test3.txt";
     std::string tempName;
     int tempValue = 0, tempWeight = 0;
     Item * itemArray;
