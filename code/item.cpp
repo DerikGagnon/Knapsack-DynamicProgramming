@@ -28,7 +28,12 @@ int maxValue(int num1, int num2) {
 }
 
 int dynamicProgram(int numItems, int weightLimit, Item * items) {
-    int table[numItems + 1][weightLimit + 1];
+	int ** table;
+	table = new int*[numItems + 1];
+	for (int i = 0; i < numItems + 1; i++) {
+		table[i] = new int[weightLimit + 1];
+	}
+	//int table[numItems + 1][weightLimit + 1];
 
     //initialize table
     for (int i = 0; i < numItems + 1; i++) {
